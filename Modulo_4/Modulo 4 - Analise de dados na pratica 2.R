@@ -1,7 +1,10 @@
 #Analise de dados na pratica
 
+#Obtendo os dados
+#https://www.kaggle.com/uciml/pima-indians-diabetes-database
+
 #Carregando dados
-diabetes <- read.csv(file = "C:/Users/victo/Desktop/Estudos/Estudos R/EVG/Módulo 4/diabetes.csv")
+diabetes <- read.csv(file = "C:/Users/victo/Desktop/Estudos/Estudos R/EVG/MÃ³dulo 4/diabetes.csv")
 
 head(diabetes)
 
